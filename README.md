@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-indigo-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Deep Indigo Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-indigo-romance/) |
+| **Get License** | [Official Music Licensing for Deep Indigo Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-indigo-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight wrapped around your silhouette
+> Shadows dancing where our fingers met
+> I can feel the heat beneath your skin
+> Pull me closer, let the night begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
